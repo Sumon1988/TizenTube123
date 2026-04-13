@@ -150,26 +150,24 @@
             }
         },
         "ttSettings": {
-            "title": "TizenTube Settings",
+            "title": "Sk-Tube Settings",
             "madeByText": "Made by Reis Can (reisxd) with ❤️",
-            "summary": "Open TizenTube Settings"
+            "summary": "Open Sk-Tube Settings"
         },
         "supportTT": {
-            "title": "Support TizenTube",
-            "subtitle": "❤️ Show support for TizenTube and its development",
+            "title": "Support Sk-Tube",
+            "subtitle": "❤️ Show support for Sk-Tube and its development",
             "content": {
-                "1": "If you enjoy using TizenTube and would like to support its development, consider the following:",
+                "1": "If you enjoy using Sk-Tube and would like to support its development, consider the following:",
                 "2": "1. Star the GitHub repository to help increase its visibility.",
                 "3": "2. Share TizenTube with others.",
                 "4": "If you would like to contribute financially, consider donating:",
-                "5": "- Buy Me A Coffee: https://www.buymeacoffee.com/reisxd (preferably)",
-                "6": "- GitHub Sponsors: https://github.com/sponsors/reisxd"
-            }
+                "5": "- 
         }
     },
     "welcomeMsg": {
-        "title": "Welcome to TizenTube",
-        "subtitle": "Go to settings and click on TizenTube Settings for settings."
+        "title": "Welcome to Sk-Tube",
+        "subtitle": "Go to settings and click on Sk-Tube Settings for settings."
     },
     "sponsorblock": {
         "segments": {
