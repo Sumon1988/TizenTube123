@@ -134,14 +134,14 @@
                     },
                     "launchToOnStartup": {
                         "title": "Startseite beim Start",
-                        "subtitle": "Wähle die Standardseite, die TizenTube beim Start öffnet"
+                        "subtitle": "Wähle die Standardseite, die Sk-Tube beim Start öffnet"
                     },
                     "sortSubscriptionsByAlphabet": "Sort Subscriptions Alphabetically"
                 }
             },
             "updater": {
-                "title": "TizenTube Cobalt Updater",
-                "menuSubtitle": "TizenTube Cobalt Updates verwalten",
+                "title": "Sk-Tube Cobalt Updater",
+                "menuSubtitle": "Sk-Tube Cobalt Updates verwalten",
                 "versionSubtitle": "Aktuelle Version: {{version}}",
                 "options": {
                     "checkForUpdates": "Nach Updates suchen",
@@ -150,26 +150,24 @@
             }
         },
         "ttSettings": {
-            "title": "TizenTube-Einstellungen",
+            "title": "Sk-Tube-Einstellungen",
             "madeByText": "Erstellt von Reis Can (reisxd) mit ❤️",
-            "summary": "TizenTube-Einstellungen öffnen"
+            "summary": "Sk-Tube öffnen"
         },
         "supportTT": {
-            "title": "TizenTube unterstützen",
-            "subtitle": "❤️ Unterstütze TizenTube und seine Entwicklung",
+            "title": "Sk-Tube unterstützen",
+            "subtitle": "❤️ Unterstütze Sk-Tube und seine Entwicklung",
             "content": {
-                "1": "Wenn dir TizenTube gefällt und du seine Entwicklung unterstützen möchtest, ziehe Folgendes in Betracht:",
+                "1": "Wenn dir Sk-Tube gefällt und du seine Entwicklung unterstützen möchtest, ziehe Folgendes in Betracht:",
                 "2": "1. Markiere das GitHub-Repository mit einem Stern, um seine Sichtbarkeit zu erhöhen.",
-                "3": "2. Teile TizenTube mit anderen.",
+                "3": "2. Teile Sk-Tube mit anderen.",
                 "4": "Wenn du finanziell beitragen möchtest, kannst du spenden:",
-                "5": "- Buy Me A Coffee: https://www.buymeacoffee.com/reisxd (bevorzugt)",
-                "6": "- GitHub Sponsors: https://github.com/sponsors/reisxd"
-            }
+                "5": "- 
         }
     },
     "welcomeMsg": {
-        "title": "Willkommen bei TizenTube",
-        "subtitle": "Gehe zu den Einstellungen und klicke auf TizenTube-Einstellungen."
+        "title": "Willkommen bei Sk-Tube",
+        "subtitle": "Gehe zu den Einstellungen und klicke auf Sk-Tube-Einstellungen."
     },
     "sponsorblock": {
         "segments": {
