@@ -150,13 +150,13 @@
             }
         },
         "ttSettings": {
-            "title": "TizenTube postavke",
+            "title": "Sk-Tube postavke",
             "madeByText": "Autor: Reis Can (reisxd) sa ❤️",
-            "summary": "Otvori TizenTube postavke"
+            "summary": "Otvori Sk-Tube postavke"
         },
         "supportTT": {
-            "title": "Podrži TizenTube",
-            "subtitle": "❤️ Podržite razvoj TizenTube projekta",
+            "title": "Podrži Sk-Tube",
+            "subtitle": "❤️ Podržite razvoj Sk-Tube projekta",
             "content": {
                 "1": "Ako uživate u korištenju TizenTube-a i želite podržati njegov razvoj, razmislite o sljedećem:",
                 "2": "1. Označite repozitorij zvjezdicom (Star) na GitHubu radi bolje vidljivosti.",
@@ -168,8 +168,8 @@
         }
     },
     "welcomeMsg": {
-        "title": "Dobrodošli u TizenTube",
-        "subtitle": "Idite u postavke i kliknite na 'TizenTube postavke' za konfiguraciju."
+        "title": "Dobrodošli u Sk-Tube",
+        "subtitle": "Idite u postavke i kliknite na 'Sk-Tube postavke' za konfiguraciju."
     },
     "sponsorblock": {
         "segments": {
